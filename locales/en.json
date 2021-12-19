@@ -1,0 +1,17 @@
+{
+    "products": {
+        "retrieved": "Products are retrieved successfully.",
+        "created": "Product has been created successfully.",
+        "deleted": "Product has been deleted successfully.",
+        "updated": "Product has been updated successfully."
+    },
+    "categories": {
+        "retrieved": "Categories are retrieved successfully.",
+        "created": "Category has been created successfully.",
+        "deleted": "Category has been deleted successfully.",
+        "associatedDelete": "You can not delete the associated category",
+        "updated": "Category has been updated successfully."
+    }
+
+
+}
